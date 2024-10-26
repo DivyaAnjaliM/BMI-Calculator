@@ -3,7 +3,7 @@
 
 •	BMI Category: The function determine_bmi_category categorizes the BMI into "Underweight," "Normal Weight," "Overweight," or "Obese."
 
-•	CSV Handling: The user details (name, age, weight, height, BMI, and BMI category) are stored in a CSV file. If the file user_details1.csv already exists, new data is appended to it.
+•	CSV Handling: The user details (name, age, weight, height, BMI, and BMI category) are stored in a CSV file. If the file user_details1.csv already exists, new data    is appended to it.
 
 •	Visualization: Using ggplot2, a BMI distribution graph is generated and saved as an image file (bmi_distribution.png).
 
